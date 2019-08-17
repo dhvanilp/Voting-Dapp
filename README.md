@@ -45,3 +45,5 @@ The entire voting system made simple
 - ```npm install -g truffle ```
 - ```npm install ```
 - ```truffle migrate --reset```
+
+To vote : https://dhvanilp.github.io/code.fun.do/  (Allow to share address in metamask)
