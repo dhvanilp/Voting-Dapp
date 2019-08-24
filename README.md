@@ -33,17 +33,3 @@ The entire voting system made simple
 3. No need of long counting procedures as the vote is updated instantly.
 4. No problems of auth failures as the BlockChain system is secure and provides access only to the unique key of the user + 2fa with fingerprint.
 5. Problems of crooked govt. denying voters to vote with faulty voters list is removed as there is no need of pre-processing.
-
-### Running the project
-
-- Make sure you have Ganche running on port 7545
-- Have metamast setup
-
-
-#### In the project root:
-
-- ```npm install -g truffle ```
-- ```npm install ```
-- ```truffle migrate --reset```
-
-To vote : https://dhvanilp.github.io/code.fun.do/  (Allow to share address in metamask)
