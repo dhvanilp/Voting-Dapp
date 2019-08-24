@@ -1,0 +1,1 @@
+ geth --datadir data --rpc --rpcapi web3,eth,personal,miner,net,txpool --rpccorsdomain="*" --rpcport 8400 --rpcaddr "0.0.0.0" --networkid 10101010 console --allow-insecure-unlock
